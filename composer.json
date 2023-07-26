@@ -1,0 +1,23 @@
+{
+    "name": "silverstripe/open-ai-search-poc",
+    "description": "Silverstripe Innovation week OpenAI project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Silverstripe\\OpenAiSearchPoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Innocent Bindura",
+            "email": "innocent.bindura@silverstripe.com"
+        },
+        {
+            "name": "Sabina Talipova",
+            "email": "sabina.talipova@silverstripe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
