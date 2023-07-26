@@ -19,5 +19,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+      "tasabina/gpt-test-project": "^1.0"
+    }
 }
