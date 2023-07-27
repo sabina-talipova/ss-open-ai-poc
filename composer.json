@@ -20,6 +20,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-      "tasabina/gpt-test-project": "^1.0"
+      "tasabina/gpt-test-project": "^1.1.x-dev"
     }
 }
